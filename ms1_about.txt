@@ -1,0 +1,5 @@
+# METEO 473 Spring 2022
+# Milestone 1
+# Group: yvh5398, sos6004
+# Code location: /home/meteo/yvh5398/meteo473/spring2022/milestone1/milestone.py
+
